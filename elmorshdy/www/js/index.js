@@ -75,7 +75,7 @@ inAppBrowserbRef.addEventListener('loadstart', function() {
       admob.setOptions({
         publisherId:           "",  // Required
         interstitialAdId:      "",  // Optional
-        autoShowBanner:        true,                                      // Optional
+        autoShowBanner:        false,                                      // Optional
         autoShowRInterstitial: false,                                     // Optional
         autoShowRewarded:      false,                                     // Optional
         tappxIdiOS:            "/XXXXXXXXX/Pub-XXXX-iOS-IIII",            // Optional
@@ -84,13 +84,13 @@ inAppBrowserbRef.addEventListener('loadstart', function() {
       });
       
       // Start showing banners (atomatic when autoShowBanner is set to true)
-      admob.createBannerView();
+      //admob.createBannerView();
       
       // Request interstitial ad (will present automatically when autoShowInterstitial is set to true)
-      admob.requestInterstitialAd();
+      //admob.requestInterstitialAd();
  
       // Request rewarded ad (will present automatically when autoShowRewarded is set to true)
-      admob.requestRewardedAd();
+     // admob.requestRewardedAd();
        //admob
 
 
