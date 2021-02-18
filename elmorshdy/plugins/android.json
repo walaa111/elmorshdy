@@ -7,22 +7,25 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "io.cordova.hellocordova"
+    "cordova-admob": {
+      "PACKAGE_NAME": "com.realdealagency.elmorshdyoffers"
     },
     "cordova-plugin-inappbrowser": {
-      "PACKAGE_NAME": "io.cordova.hellocordova"
+      "PACKAGE_NAME": "com.realdealagency.elmorshdyoffers"
     },
-    "cordova-admob": {
-      "PACKAGE_NAME": "io.cordova.hellocordova"
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.realdealagency.elmorshdyoffers"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "com.realdealagency.elmorshdyoffers"
     }
   },
   "dependent_plugins": {
     "cordova-connectivity-monitor": {
-      "PACKAGE_NAME": "io.cordova.hellocordova"
+      "PACKAGE_NAME": "com.realdealagency.elmorshdyoffers"
     },
     "cordova-play-services-version-adapter": {
-      "PACKAGE_NAME": "io.cordova.hellocordova"
+      "PACKAGE_NAME": "com.realdealagency.elmorshdyoffers"
     }
   }
 }

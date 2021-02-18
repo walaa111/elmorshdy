@@ -1,34 +1,92 @@
 {
   "project_info": {
-    "project_number": "905263301667",
-    "firebase_url": "https://lasttest-31454.firebaseio.com",
-    "project_id": "lasttest-31454",
-    "storage_bucket": "lasttest-31454.appspot.com"
+    "project_number": "1031016695868",
+    "firebase_url": "https://fir-ea7fd-default-rtdb.firebaseio.com",
+    "project_id": "fir-ea7fd",
+    "storage_bucket": "fir-ea7fd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:905263301667:android:2685592900f9991fe5dd96",
+        "mobilesdk_app_id": "1:1031016695868:android:a39345addd39b4b7b01b39",
         "android_client_info": {
-          "package_name": "com.realdealagency.quraanappmobile"
+          "package_name": "com.realdealagency.ebekalaa"
         }
       },
       "oauth_client": [
         {
-          "client_id": "905263301667-n18p5qb9jv5jf1dsr7c63641ldrfdfc5.apps.googleusercontent.com",
+          "client_id": "1031016695868-2hk7d9hqp9bbor9d8chqmq6p5f5s47qh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCCcSCXX0onu7MalQJfijEMg0EJ8O3ib-4"
+          "current_key": "AIzaSyBB7KxE-cqneG9G8lYdSaS3WcWHOTlagHs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "905263301667-n18p5qb9jv5jf1dsr7c63641ldrfdfc5.apps.googleusercontent.com",
+              "client_id": "1031016695868-2hk7d9hqp9bbor9d8chqmq6p5f5s47qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031016695868:android:11280c60670630a7b01b39",
+        "android_client_info": {
+          "package_name": "com.realdealagency.elmorshdyoffers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031016695868-2hk7d9hqp9bbor9d8chqmq6p5f5s47qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB7KxE-cqneG9G8lYdSaS3WcWHOTlagHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031016695868-2hk7d9hqp9bbor9d8chqmq6p5f5s47qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031016695868:android:ab39118339de3c12b01b39",
+        "android_client_info": {
+          "package_name": "com.realdealagency.newcordova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031016695868-2hk7d9hqp9bbor9d8chqmq6p5f5s47qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB7KxE-cqneG9G8lYdSaS3WcWHOTlagHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031016695868-2hk7d9hqp9bbor9d8chqmq6p5f5s47qh.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
