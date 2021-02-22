@@ -40,6 +40,7 @@ var app = {
       
               //admob
            // Set AdMobAds options:
+           /*
             admob.setOptions({
               publisherId:           "",  // Required
               interstitialAdId:      "",  // Optional
@@ -61,7 +62,7 @@ var app = {
             admob.requestRewardedAd();
              //admob
       
-      
+      */
 //notifysss
 
       // Add to index.js or the first page that loads with your app.
