@@ -8,6 +8,7 @@ elmorshdy offers
 elmorshdy offers
     </author>
     <preference name="phonegap-version" value="cli-8.0.0" />
+    <preference name="android-targetSdkVersion" value="26"/>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
